@@ -82,10 +82,10 @@ client_socket.close()
 ## OUPUT
 
 ### server output:
-![alt text](image.png)
+<img width="1193" height="671" alt="Screenshot 2026-11-18 081350" src="https://github.com/user-attachments/assets/2af3b84f-3e4e-40ff-95d1-18a152e721b6" />
 
 ### client output:
-![alt text](image-1.png)
+<img width="1193" height="670" alt="Screenshot 2026-11-18 081424" src="https://github.com/user-attachments/assets/f9145410-ddb4-49aa-b615-d3b78c2d62dc" />
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
